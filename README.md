@@ -3,11 +3,11 @@
 # Trabalho Prático - Semana-01
 
 ## Informações Gerais
-Nome: 
-Matricula: 
+Nome: Manuela Edmundo Moss
+Matricula: 892623
 
 ## Tela de inspeção com navegador
-
+![alt text](PrintArchdaily.png)
 
 ## Tela de projeto no Replit
-
+![alt text](PrintReplit.png)
